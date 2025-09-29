@@ -1,0 +1,8 @@
+.env
+
+__pycache__/
+
+tables/
+downloads/
+excel_outputs/
+markdown_files/
