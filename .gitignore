@@ -2,6 +2,7 @@ tables/
 downloads/
 excel_outputs/
 sanitised_excel_outputs/
+sanitised_formatted_excel_outputs/
 markdown_files/
 misc/
 
