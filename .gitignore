@@ -5,7 +5,9 @@ __pycache__/
 tables/
 downloads/
 excel_outputs/
+sanitised_excel_outputs/
 markdown_files/
 misc/
+
 
 .curriculum.db
