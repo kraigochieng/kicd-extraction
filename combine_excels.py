@@ -3,8 +3,8 @@ from pathlib import Path
 import pandas as pd
 
 # === SETTINGS ===
-folder_path = Path("excel_outputs")
-output_file = folder_path.parent / "excel_outputs_combined.xlsx"
+folder_path = Path("sanitised_excel_outputs")
+output_file = folder_path.parent / "sanitised_excel_outputs_combined.xlsx"
 
 # === READ & COMBINE ===
 all_dfs = []
