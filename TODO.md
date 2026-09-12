@@ -1,6 +1,7 @@
 # Todo
 
 -   [ ] create test file to test sub strand
+-   [ ] create folders for grade 1 to grade 9, then the excel files
 
 # In Progress
 
